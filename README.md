@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm a Senior Architect focused on Cloud and Platform Engineering. I build and design scalable infrastructure and platform solutions.
+I'm a Senior Architect focused on Cloud and Platform Engineering. I build and design scalable, secure infrastructure and platform solutions with a focus on operational excellence.
 
 ## What I work with
 
