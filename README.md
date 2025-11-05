@@ -8,6 +8,7 @@ I'm a Senior Architect focused on Cloud and Platform Engineering. I build and de
 - **Orchestration**: Kubernetes
 - **IaC**: Terraform
 - **Languages**: Python, Go, Shell scripting
+- **Current interests**: AI and Coding Agents
 
 ## Find me elsewhere
 
