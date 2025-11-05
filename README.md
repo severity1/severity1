@@ -10,6 +10,13 @@ I'm a Senior Architect focused on Cloud and Platform Engineering. I build and de
 - **Languages**: Python, Go, Shell scripting
 - **Current interests**: AI and Coding Agents
 
+## Some things I've been working on
+
+- [claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver) - Intelligent prompt improver hook for Claude Code
+- [custom-amazon-bedrock-agent-action](https://github.com/severity1/custom-amazon-bedrock-agent-action) - GitHub Action that uses Amazon Bedrock Agent to analyze code changes in pull requests
+- [terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) - MCP server that integrates AI assistants with the Terraform Cloud API
+- [argocd-mcp](https://github.com/severity1/argocd-mcp) - MCP server that integrates with the ArgoCD API for infrastructure management
+
 ## Find me elsewhere
 
 - [Blog](https://jrpospos.blog) - where I write about cloud, platform engineering, and other tech topics
